@@ -12,5 +12,7 @@ int main(){
     printf("Enter the number of stack elements: ");
     scanf("%d", &n);
 
-    
+    while(1){
+        
+    }
 }
